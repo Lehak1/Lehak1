@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Lehak</h1>
 <h3 align="center">A passionate full stack developer and lifelong learner</h3>
+
+<img src="https://camo.githubusercontent.com/a13503cee9d97d1f6889dca13e96050b19c0ef21f67bab75c264cec88645f8e2/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313630302f302a4b32574c4d5445784c79696461374f522e676966" width="100%"/>
+
+
+
 🌱 I’m currently diving deep into backend development, exploring scalable architectures and robust APIs  <br>💬 Ask me about full-stack web development, DSA, and building real-world projects  <br>📫 How to reach me: lehakdutta@gmail.com  
 
 
